@@ -15,13 +15,19 @@
 ![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)]
 ![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=educatorsRlearners&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=educatorsRlearners&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=educatorsRlearners.educatorsRlearners)
+</p>
+</details>
 
-
+  
 <!--
 **educatorsRlearners/educatorsRlearners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
