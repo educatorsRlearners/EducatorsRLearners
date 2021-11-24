@@ -2,9 +2,12 @@
 
 <!-- I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: -->
 
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-evansimpson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evansimpson/)](https://www.linkedin.com/in/evansimpson1/)
 [![Medium Badge](https://img.shields.io/badge/-@pevansimpson-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pevansimpson/)](https://medium.com/@aemmadi)
 [![Gmail Badge](https://img.shields.io/badge/-p.evansimpson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:p.evansimpson@gmail.com)
+ </p>
 
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
