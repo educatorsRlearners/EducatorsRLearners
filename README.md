@@ -16,9 +16,10 @@
 ![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=educatorsRlearners&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=educatorsRlearners&hide=TeX&layout=compact)
 
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi) -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=educatorsRlearners.educatorsRlearners)
 
 
 <!--
