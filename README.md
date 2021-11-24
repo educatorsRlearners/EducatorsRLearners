@@ -5,7 +5,7 @@
 ## 📫 Reach me on
 [![Linkedin Badge](https://img.shields.io/badge/-evansimpson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evansimpson/)](https://www.linkedin.com/in/evansimpson1/)
 [![Medium Badge](https://img.shields.io/badge/-@pevansimpson-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pevansimpson/)](https://medium.com/@pevansimpson)
-[![Gmail Badge](https://img.shields.io/badge/-p.evansimpson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:p.evansimpson@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-p.evansimpson-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:p.evansimpson@gmail.com)](mailto:p.evansimpson@gmail.com)
 
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
