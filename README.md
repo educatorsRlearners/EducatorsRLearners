@@ -5,18 +5,18 @@
 ## Where to follow me ... 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/evansimpson1/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://medium.com/@pevansimpson"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
+  <a href="https://www.linkedin.com/in/evansimpson1/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://medium.com/@pevansimpson"><img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="medium"/></a>
 </p>
 
 ## ⚡ Tools I use ...
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt='python'/>
-  <img src="https://img.icons8.com/external-becris-flat-becris/96/000000/external-r-data-science-becris-flat-becris.png" alt="R"/>
-  <img src="https://img.icons8.com/color/96/000000/linux--v1.png"/>
-  <img src="https://img.icons8.com/color/96/000000/git.png"/>
-  <img src='https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_vscode_icon_130084.png'/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt='python'/>
+  <img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-r-data-science-becris-flat-becris.png" alt="R"/>
+  <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src='https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_vscode_icon_130084.png'/>
 </p>
 
 ## 🌱 What I’m currently learning ...
@@ -26,7 +26,7 @@
 
 ## How to reach me: 
 <p align="center">
-  <a href="mailto:p.evansimpson@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="mailto:p.evansimpson@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/></a>
 </p>
 
 
