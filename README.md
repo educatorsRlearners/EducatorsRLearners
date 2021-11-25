@@ -2,13 +2,6 @@
 
 <!-- I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: -->
 
-## Where to follow me ... 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/evansimpson1/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://medium.com/@pevansimpson"><img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="medium"/></a>
-</p>
-
 ## ⚡ Tools I use ...
 
 <p align="center">
@@ -23,6 +16,13 @@
 <p align="center">
   <a href="https://huggingface.co/Evan"><img src='https://huggingface.co/front/assets/huggingface_logo-noborder.svg' alt="huggingface"/></a>
   <img src='https://cdn.icon-icons.com/icons2/2699/PNG/96/amazon_aws_logo_icon_170593.png'/>
+</p>
+
+## Where to follow me ... 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/evansimpson1/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://medium.com/@pevansimpson"><img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="medium"/></a>
 </p>
 
 ## How to reach me: 
