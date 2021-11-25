@@ -4,7 +4,7 @@
 - [machine learning engineer](https://github.com/educatorsRlearners/book-maturity/blob/master/readme.md)
 - [data scientist/analyst](https://github.com/educatorsRlearners/podrevday)
 - [language assessment expert](https://www.britishcouncil.cn/en/exams/EAAST/event1)
-- educator 
+- [educator/teacher trainer](https://www.britishcouncil.cn/en/EAAST/clients#:~:text=%E2%80%9CEvan%20was%20definitely,British%20Council%2C%20Indonesia) 
 
 
 ## ⚡ What Tools do I use ...
