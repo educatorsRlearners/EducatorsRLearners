@@ -23,7 +23,7 @@
   <img src='https://cdn.icon-icons.com/icons2/2699/PNG/96/amazon_aws_logo_icon_170593.png'/>
 </p>
 
-## Where can you follow me ... 
+## 🔔 Where can you follow me ... 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/evansimpson1/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
