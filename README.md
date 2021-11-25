@@ -2,19 +2,33 @@
 
 <!-- I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: -->
 
-## 📫 Reach me on
-[![Linkedin Badge](https://img.shields.io/badge/-evansimpson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evansimpson/)](https://www.linkedin.com/in/evansimpson1/)
-[![Medium Badge](https://img.shields.io/badge/-@pevansimpson-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pevansimpson/)](https://medium.com/@pevansimpson)
-[![Gmail Badge](https://img.shields.io/badge/-p.evansimpson-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:p.evansimpson@gmail.com)](mailto:p.evansimpson@gmail.com)
+## Where to follow me ... 
 
-## ⚡ Technologies
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white")
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
-![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/evansimpson1/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://medium.com/@pevansimpson"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
+</p>
+
+## ⚡ Tools I use ...
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt='python'/>
+  <img src="https://img.icons8.com/external-becris-flat-becris/96/000000/external-r-data-science-becris-flat-becris.png" alt="R"/>
+  <img src="https://img.icons8.com/color/96/000000/linux--v1.png"/>
+  <img src="https://img.icons8.com/color/96/000000/git.png"/>
+  <img src='https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_vscode_icon_130084.png'/>
+</p>
+
+## 🌱 What I’m currently learning ...
+<p align="center">
+  <a href="https://huggingface.co/Evan"><img src='https://huggingface.co/front/assets/huggingface_logo-noborder.svg' alt="huggingface"/></a>
+</p>
+
+## How to reach me: 
+<p align="center">
+  <a href="mailto:p.evansimpson@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+</p>
+
 
 <details>
 <summary>Click for GitHub Stats</summary>
@@ -28,7 +42,7 @@
 </p>
 </details>
 
-  
+
 <!--
 **educatorsRlearners/educatorsRlearners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
