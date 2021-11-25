@@ -22,6 +22,7 @@
 ## 🌱 What I’m currently learning ...
 <p align="center">
   <a href="https://huggingface.co/Evan"><img src='https://huggingface.co/front/assets/huggingface_logo-noborder.svg' alt="huggingface"/></a>
+  <img src='https://cdn.icon-icons.com/icons2/2699/PNG/96/amazon_aws_logo_icon_170593.png'/>
 </p>
 
 ## How to reach me: 
