@@ -1,6 +1,6 @@
 ## Well hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-## 🤔 Who am I ...
+## 🤔 Who I am ...
 - [machine learning engineer](https://github.com/educatorsRlearners/book-maturity/blob/master/readme.md)
 - [data scientist/analyst](https://github.com/educatorsRlearners/podrevday/blob/master/README.md)
 - [language assessment expert](https://www.britishcouncil.cn/en/exams/EAAST/event1)
