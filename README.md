@@ -19,7 +19,7 @@
 
 ## 🌱 What I am currently learning ...
 <p align="center">
-  <a href="https://huggingface.co/Evan"><img src='https://huggingface.co/front/assets/huggingface_logo-noborder.svg' alt="huggingface"/></a>
+  <a href="https://github.com/educatorsRlearners/hugging_face_course"><img src='https://huggingface.co/front/assets/huggingface_logo-noborder.svg' alt="huggingface"/></a>
   <img src='https://cdn.icon-icons.com/icons2/2699/PNG/96/amazon_aws_logo_icon_170593.png'/>
 </p>
 
