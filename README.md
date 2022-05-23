@@ -2,7 +2,7 @@
 
 ## 🤔 Who I am ...
 - [machine learning engineer](https://github.com/educatorsRlearners/book-maturity/blob/master/readme.md)
-- [data scientist/analyst](https://github.com/educatorsRlearners/podrevday/blob/master/README.md)
+- [data scientist/analyst](https://www.kaggle.com/code/evansimpson/eda-for-commonlit-reading-prize)
 - [language assessment expert](https://www.britishcouncil.cn/en/exams/EAAST/event1)
 - [educator/teacher trainer](https://www.britishcouncil.cn/en/EAAST/clients#:~:text=%E2%80%9CEvan%20was%20definitely,British%20Council%2C%20Indonesia) 
 
